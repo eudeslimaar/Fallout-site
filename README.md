@@ -6,13 +6,13 @@
 - **Linkedin:** [in/eudeslimaar/](https://www.linkedin.com/in/eudeslimaar/)
 - **Email**     - Develeper@eudeslima.com
 
-Sitio web
+En este proyecto creé un diseño inicial de cómo sería la interfaz y a través de él creé este sitio.
 
-## E-commerce de Billeteras 
+## Fallout Site
 
 [Este Proyecto](https://github.com/eudeslimaar/Azure-cueros-shop) tiene las siguientes características:
 
-  - [x] Design de Interface.
+  - [x] Design de Interfaz.
   - [x] Html y estilo CSS.
   - [x] Responsive design.
   - [x] Implementación de SASS.
