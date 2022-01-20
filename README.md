@@ -10,7 +10,7 @@ En este proyecto creé un diseño inicial de cómo sería la interfaz y a travé
 
 ## Fallout Site
 
-[Este Proyecto](https://github.com/eudeslimaar/Azure-cueros-shop) tiene las siguientes características:
+[Este Proyecto](https://github.com/eudeslimaar/Fallout-site) tiene las siguientes características:
 
   - [x] Design de Interfaz.
   - [x] Html y estilo CSS.
